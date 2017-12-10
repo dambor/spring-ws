@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: io.pivotal.education.articulate.HealthSpec
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.826 s <<< FAILURE! - in io.pivotal.education.articulate.HealthSpec
+should pass health check(io.pivotal.education.articulate.HealthSpec)  Time elapsed: 0.54 s  <<< ERROR!
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:8080
+	at io.pivotal.education.articulate.HealthSpec.should pass health check(HealthSpec.groovy:27)
+Caused by: java.net.ConnectException: Connection refused
+	at io.pivotal.education.articulate.HealthSpec.should pass health check(HealthSpec.groovy:27)
+
