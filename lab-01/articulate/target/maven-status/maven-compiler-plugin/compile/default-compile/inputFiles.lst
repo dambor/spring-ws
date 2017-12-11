@@ -1,8 +1,8 @@
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/controller/ArticulateController.java
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/model/Attendee.java
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/ArticulateApplication.java
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/controller/ArticulateRestController.java
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/service/EnvironmentHelper.java
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/service/AttendeeService.java
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/cloud/service/WebServiceInfo.java
-/Users/gborges/Documents/workshops/project-x/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/cloud/service/AttendeeWebServiceInfoCreator.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/ArticulateApplication.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/controller/ArticulateController.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/cloud/service/WebServiceInfo.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/model/Attendee.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/cloud/service/AttendeeWebServiceInfoCreator.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/service/AttendeeService.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/controller/ArticulateRestController.java
+/Users/gborges/Documents/workshops/project-x/spring-ws/lab-01/articulate/src/main/java/io/pivotal/education/articulate/service/EnvironmentHelper.java
